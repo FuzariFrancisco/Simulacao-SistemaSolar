@@ -1,7 +1,13 @@
 # Simulação - SistemaSolar
-## Por: Francisco Henrique da Silva Fuzari de Souza
+Por: [***Francisco Henrique***](https://www.linkedin.com/in/francisco-henrique-010912189)
 
-### Este projeto é uma simulação 3D do Sistema Solar, criado na Unity com C#, e reproduz a localização de cada planeta em relação ao sol, sua rotação e sua velocidade.
+### -Projeto desenvolvido utilizando á *Game Engine* [Unity](https://unity.com/) com C#.
+
+## Objetivo
+- Exibir um projeto que trabalha com física, Projeto 3D.
+
+## Informações
+- Este projeto é uma simulação 3D do Sistema Solar, criado na Unity com C#, e reproduz a localização de cada planeta em relação ao sol, sua rotação e sua velocidade.
 
 ![Sistema Solar 3D](Imagens-ReadMe/SistemaSolar.PNG)
 
